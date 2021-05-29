@@ -1,6 +1,5 @@
 from model import shadow_mask_gen
 from dataloader import datastreamer
-import numpy as np
 import os
 import skimage.io as io
 import skimage.transform as trans
